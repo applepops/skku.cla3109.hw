@@ -1,8 +1,20 @@
-한국어 인공지능 데이터과학 (CLA3109) 과제용 저장소
-===
 
-### 사용방법
-1. 이 저장소(Repository)를 "fork"합니다.
-2. Github 원격 저장소에서 내 컴퓨터로 내려 받습니다.
-3. 주차별 과제를 수행하고 자신의 **나의 private** 저장소에 Commit, Push 합니다.
-4. 새로운 과제가 올라왔다면 Fetch Stream 합니다.
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&customColorList=6&height=300&section=header&text=Hello%20Applepops&fontSize=80&animation=blink)
+
+  
+<div align=center>
+  
+  :apple:**Introduction**:apple:
+  
+  성균관대학교 국어국문학과 2020312298 황지희의 CLA3109 과제 저장소  
+  
+  
+  :green_apple:**Recent Changes**:green_apple:
+  
+  hw5, 6 upload 完
+
+  
+  
+  :lemon:**Studying**:lemon:
+  
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></div>
