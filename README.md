@@ -1,6 +1,6 @@
   :apple:**Introduction**:apple:
   -------------
-  I upload my assignments for 2022-1 CLA3109(korean artificial intelligence and data science) class.
+  + I upload my assignments for 2022-1 CLA3109(korean artificial intelligence and data science) class.
   
   <br/>
   
@@ -24,7 +24,7 @@
   
   :orange:**Recent Changes**:orange:
   ---------
-  hw5, 6 uploaded
+  + hw5, 6 uploaded
 
   <br/>
   
