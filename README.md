@@ -3,7 +3,6 @@
 
   
 
-  <div align='center'>
   
   :apple:**Introduction**:apple:
   -------------
@@ -35,4 +34,4 @@
   
   :lemon:**Studying**:lemon:
   ----------
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></div>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
