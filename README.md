@@ -1,6 +1,6 @@
   :apple:**Introduction**:apple:
   -------------
-  성균관대학교 국어국문학과 2020312298 황지희의 CLA3109 과제 저장소
+  I upload my assignments for 2022-1 CLA3109(korean artificial intelligence and data science) class.
   
   <br/>
   
@@ -24,7 +24,7 @@
   
   :orange:**Recent Changes**:orange:
   ---------
-  hw5, 6 upload 完
+  hw5, 6 uploaded
 
   <br/>
   
