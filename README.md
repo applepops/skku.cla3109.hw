@@ -12,6 +12,7 @@
   
   :green_apple:**Assignment List**:green_apple:
   -----------------
+  ```
   week3 - hw1: python pandas practice
   
   week4 - hw2: crawling using requests html (조선왕조실록)
@@ -23,6 +24,7 @@
   week9 - hw5: statistics concepts
   
   week10 - hw6: matplotlib seaborn practice
+  ```
   
   <br/>
   
