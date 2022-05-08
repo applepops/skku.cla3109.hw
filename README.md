@@ -1,10 +1,10 @@
-  :apple:**Introduction**:apple:
+  🚀**Introduction**
   -------------
   + I upload my assignments for 2022-1 CLA3109(korean artificial intelligence and data science) class.
   
   <br/>
   
-  :green_apple:**Assignment List**:green_apple:
+  📚**Assignment List**
   -----------------
   ```
   - week3/hw1: python pandas practice
@@ -22,12 +22,6 @@
   
   <br/>
   
-  :orange:**Recent Changes**:orange:
+  💻**Recent Changes**
   ---------
   + hw5, 6 uploaded
-
-  <br/>
-  
-  :lemon:**Studying**:lemon:
-  ----------
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
