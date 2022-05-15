@@ -7,7 +7,7 @@
   📚 **Assignment List**
   -----------------
   ```
-  - week3/hw1: python pandas practice
+  - week3/hw1: python & pandas practice
   
   - week4/hw2: crawling using requests html (http://sillok.history.go.kr)
 
@@ -17,11 +17,13 @@
   
   - week9/hw5: statistics concepts
   
-  - week10/hw6: matplotlib seaborn practice
+  - week10/hw6: matplotlib & seaborn practice
+  
+  - week11/hw7: network & gephi practice
   ```
   
   <br/>
   
   💻 **Recent Changes**
   ---------
-  + hw5, 6 uploaded
+  + hw7 uploaded
